@@ -30,7 +30,7 @@ I approach every project with confidence and curiosity, designing and deploying 
 - **NLP & Retrieval:** LangChain, FAISS, text/similarity search
 - **Web Apps:** Streamlit, Flask, FastAPI
 - **Data:** Pandas, NumPy, synthetic data generation
-- **Deployment:** Git, GitHub, Docker , Heroku/Streamlit Cloud
+- **Deployment:** Git, GitHub, Docker , chroma, Heroku/Streamlit Cloud
 - **Team Work:** Jupyter, Colab, Markdown
 
 ## 🌱 Currently Learning & Goals
