@@ -27,10 +27,10 @@ I approach every project with confidence and curiosity, designing and deploying 
 
 - **Languages:** Python, SQL
 - **Frameworks:** TensorFlow, Keras, PyTorch , Scikit-learn, LightGBM, XGBoost
-- **NLP & Retrieval:** LangChain, FAISS, text/similarity search
+- **NLP & Retrieval:** LangChain, FAISS, ChromaDB, OpenSearch Service, text/similarity search
 - **Web Apps:** Streamlit, Flask, FastAPI
 - **Data:** Pandas, NumPy, synthetic data generation
-- **Deployment:** Git, GitHub, Docker , chroma, Heroku/Streamlit Cloud
+- **Cloud & Deployment:** Git, GitHub, Docker,AWS S3, AWS Lambda, AWS SageMaker, AWS OpenSearch, Docker, Heroku/Streamlit Cloud
 - **Team Work:** Jupyter, Colab, Markdown
 
 ## 🌱 Currently Learning & Goals
